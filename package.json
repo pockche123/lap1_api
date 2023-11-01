@@ -1,0 +1,20 @@
+{
+  "name": "lap1_api",
+  "version": "1.0.0",
+  "description": "- update the `.gitignore`\r - `GET /`\r - create a [middleware](https://expressjs.com/en/guide/using-middleware.html#using-middleware) logger\r - index `GET /sharks`\r - show `GET /sharks/:id`\r - create `POST /sharks`\r - update `PATCH /sharks/:id`\r - destroy `DELETE /sharks/:id`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rom-30/lap1_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rom-30/lap1_api/issues"
+  },
+  "homepage": "https://github.com/rom-30/lap1_api#readme"
+}
